@@ -20,7 +20,7 @@ In industry, I’ve built and deployed end-to-end AI systems — including **OCR
 
 ## News
 
-- **[2025]** Our paper on **Counterfactual Instruction Following** was **accepted** at **Social Simulation @ COLM 2025**; the public version is available on arXiv.
+- **[July 2025]** Our paper on **Counterfactual Instruction Following** was **accepted** at **Social Simulation @ COLM 2025**; the public version is available on arXiv.
 - **[Aug. 2025]** Completed my AI Research & Engineering Summer Associate role at **AriesView** (OCR + RAG lease abstraction deployed on Azure).
 - **[May. 2025]** Completed my AI Engineer internship at **Voicebotics AI**, building real-time call-insight pipelines.
 - **[Aug. 2024]** Completed my ML Engineer internship at **Rise Consultancy EDU**, developing an AI-driven personalized learning-path generator.
@@ -34,10 +34,10 @@ In industry, I’ve built and deployed end-to-end AI systems — including **OCR
 
 ## Experiences
 
-- **AI Research & Engineering Summer Associate**, *AriesView* — May 2025 to Aug 2025  
-- **AI Engineer Intern**, *Voicebotics AI* — Jan 2025 to May 2025  
-- **Machine Learning Engineer Intern**, *Rise Consultancy EDU* — May 2024 to Aug 2024  
-- **Research (LLM interpretability / instruction following)**, *George Mason University* — ongoing
+- **NLP Researcher**, *George Mason University* Dec 2023 — ongoing
+- - **AI Research & Engineering Summer Associate**, *AriesView* — May 2025 - Aug 2025  
+- **AI Engineer Intern**, *Voicebotics AI* — Jan 2025 - May 2025  
+- **Machine Learning Engineer Intern**, *Rise Consultancy EDU* — May 2024 - Aug 2024  
 
 ## Services
 
@@ -48,10 +48,9 @@ In industry, I’ve built and deployed end-to-end AI systems — including **OCR
 
 ## Talks
 
-- **[2025]** “Counterfactual Instruction Following” — Social Simulation @ COLM 2025 (paper presentation)
+- **[Oct 2025]** “Counterfactual Instruction Following” — Social Simulation @ COLM 2025 (paper presentation), **Montreal, Canada**.
+- **[May 2025]** Poster presentation — **Celebration of Student Scholarship and Impact** & **CEC Research Celebration**, **George Mason University**.
 
 ## Awards
 
 - **KEEN Award (GMU Research Celebration)** — **$1,000**. [[Certificate PDF]](assets/files/Sai Adith Senthil Kumar.pdf)
-```
-
