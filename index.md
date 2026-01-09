@@ -8,7 +8,7 @@ I’m **Sai Adith Senthil Kumar**, a dual-degree **Computer Science** student at
 
 My work focuses on **LLM interpretability and instruction-following**, with an emphasis on **activation-level methods** (e.g., sparse autoencoders), **persona simulation**, and **reasoning efficiency** (“thinking” vs. “no-thinking” behaviors under strict constraints).
 
-In industry, I’ve built and deployed end-to-end AI systems — including **OCR + RAG pipelines** and **real-time insight generation** — with a focus on measurable improvements in **accuracy, latency, and reliability**.
+In industry, I’ve built and deployed end-to-end AI systems including **OCR + RAG pipelines** and **real-time insight generation** with a focus on measurable improvements in **accuracy, latency, and reliability**.
 
 ## Research Interests
 
@@ -35,16 +35,16 @@ In industry, I’ve built and deployed end-to-end AI systems — including **OCR
 ## Experiences
 
 - **NLP Researcher**, *George Mason University* Dec 2023 — ongoing
-- - **AI Research & Engineering Summer Associate**, *AriesView* — May 2025 - Aug 2025  
+- **AI Research & Engineering Summer Associate**, *AriesView* — May 2025 - Aug 2025  
 - **AI Engineer Intern**, *Voicebotics AI* — Jan 2025 - May 2025  
 - **Machine Learning Engineer Intern**, *Rise Consultancy EDU* — May 2024 - Aug 2024  
 
 ## Services
 
-- **Residential Assistant** — managed and supported **30+ students** (community building, conflict resolution, event coordination).
-- **IT Technician** — maintained and troubleshot **200+ machines** (imaging, deployments, hardware/software support).
-- **Learning Assistant (Linear Algebra)** — supported instruction and tutoring for **40+ students** (office hours, recitations, exam review).
-- **President, Club Tennis** — led operations for **80+ members** (practice scheduling, events, team coordination).
+- **Residential Assistant:** managed and supported **30+ students** (community building, conflict resolution, event coordination).
+- **IT Technician:** maintained and troubleshot **200+ machines** (imaging, deployments, hardware/software support).
+- **Learning Assistant (Linear Algebra):** supported instruction and tutoring for **40+ students** (office hours, recitations, exam review).
+- **President, GMU Club Tennis:** led operations for **80+ members** (practice scheduling, events, team coordination).
 
 ## Talks
 
