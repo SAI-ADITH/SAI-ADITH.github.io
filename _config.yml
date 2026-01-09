@@ -1,50 +1,51 @@
-# Basic Information 
-title: Your Name
-position: Ph.D. Student
-affiliation: Your Affiliation
-email: yourname (at) example.edu
+# =========================
+# Basic Information
+# =========================
+title: Sai Adith Senthil Kumar
+position: B.S./M.S. Computer Science (Machine Learning)
+affiliation: George Mason University
+email: saiadithsk (at) gmail.com
 
+# =========================
 # Search Engine Optimization (SEO)
-# The following information is used to improve the website traffic from search engines, e.g., Google.
-keywords: minimal light
-description: The Minimal Light is a simple and elegant jekyll theme for academic personal homepage.
-canonical: https://minimal-light-theme.yliu.me/
+# =========================
+keywords: Sai Adith, George Mason University, LLMs, AI Research, Mechanistic Interpretability, Instruction Following, RAG
+description: Personal website of Sai Adith Senthil Kumar — CS student at George Mason University working on LLM reasoning, instruction following, and AI safety.
+# Put your real website URL here after it is live:
+canonical: https://SAI-ADITH.github.io/
 
-# Links 
-# If you don't need one of them, you may delete the corresponding line.
-google_scholar: https://scholar.google.com/
-cv_link: assets/files/curriculum_vitae.pdf
-github_link: https://github.com/
-linkedin: https://www.linkedin.com/
+# =========================
+# Links
+# =========================
+google_scholar: https://scholar.google.com/citations?user=PiHGMEIAAAAJ&hl=en
+cv_link:
+github_link: https://github.com/SAI-ADITH
+linkedin: https://www.linkedin.com/in/saiadith/
+# If you don't use Twitter/X, delete this line or leave blank
 twitter: https://twitter.com/
 
-# Images (e.g., your profile picture and your website's favicon) 
-# "favicon" and "favicon_dark" are used for the light and dark modes, respectively. 
+# =========================
+# Images
+# =========================
 avatar: ./assets/img/avatar.png
 favicon: ./assets/img/favicon.png
 favicon_dark: ./assets/img/favicon-dark.png
 
-# Footnote
-# You may use the option to disable the footnote, "Powered by Jekyll and Minimal Light theme."
+# =========================
+# Preferences
+# =========================
 enable_footnote: true
-
-# Auto Dark Mode
-# You may use the option to disable the automatic dark theme
 auto_dark_mode: true
+font: "Serif"   # or "Sans Serif"
 
-# Font
-# You can use this option to choose between Serif or Sans Serif fonts.
-font: "Serif" # or "Sans Serif"
-
-# Google Analytics ID
-# Please remove this if you don't use Google Analytics
-google_analytics: UA-111540567-4
-
-# Use this project as a remote theme for GitHub Pages
-# See the guide here: https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/adding-a-theme-to-your-github-pages-site-using-jekyll
+# =========================
+# GitHub Pages Theme
+# =========================
 remote_theme: yaoyao-liu/minimal-light
 
-# The following files will be removed from the generated website.
+# =========================
+# Excludes (keep as-is)
+# =========================
 exclude:
   - Gemfile
   - Gemfile.lock
