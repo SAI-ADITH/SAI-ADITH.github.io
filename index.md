@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-I’m **Sai Adith Senthil Kumar**, a dual-degree **Computer Science** student at **George Mason University** (B.S. ’26, M.S. ’27 — Machine Learning concentration).
+I’m **Sai Adith Senthil Kumar**, a dual-degree **Computer Science** student at **George Mason University**, pursuing my B.S. (’26) and M.S. (’27) with a concentration in **Machine Learning**.
 
 My work focuses on **LLM interpretability and instruction-following**, with an emphasis on **activation-level methods** (e.g., sparse autoencoders), **persona simulation**, and **reasoning efficiency** (“thinking” vs. “no-thinking” behaviors under strict constraints).
 
@@ -20,8 +20,8 @@ In industry, I’ve built and deployed end-to-end AI systems including **OCR + R
 
 ## News
 
-- **[July 2025]** Our paper on **Counterfactual Instruction Following** was **accepted** at **Social Simulation @ COLM 2025**; the public version is available on arXiv.
 - **[Aug. 2025]** Completed my AI Research & Engineering Summer Associate role at **AriesView** (OCR + RAG lease abstraction deployed on Azure).
+- **[July 2025]** Our paper on **Counterfactual Instruction Following** was **accepted** at **Social Simulation @ COLM 2025**; the public version is available on arXiv.
 - **[May. 2025]** Completed my AI Engineer internship at **Voicebotics AI**, building real-time call-insight pipelines.
 - **[Aug. 2024]** Completed my ML Engineer internship at **Rise Consultancy EDU**, developing an AI-driven personalized learning-path generator.
 
@@ -41,6 +41,10 @@ In industry, I’ve built and deployed end-to-end AI systems including **OCR + R
 
 ## Services
 
+### Reviewers
+- **Social Simulation @ COLM'25**
+
+### Leadership & Campus Roles
 - **Residential Assistant:** managed and supported **30+ students** (community building, conflict resolution, event coordination).
 - **IT Technician:** maintained and troubleshot **200+ machines** (imaging, deployments, hardware/software support).
 - **Learning Assistant (Linear Algebra):** supported instruction and tutoring for **40+ students** (office hours, recitations, exam review).
