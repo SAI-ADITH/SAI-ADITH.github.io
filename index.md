@@ -41,10 +41,10 @@ In industry, I’ve built and deployed end-to-end AI systems including **OCR + R
 
 ## Services
 
-#### Reviewers
+ ### Reviewers
 - **Social Simulation @ COLM'25**
 
-#### Leadership & Campus Roles
+ ### Leadership & Campus Roles
 - **Residential Assistant:** managed and supported **30+ students** (community building, conflict resolution, event coordination).
 - **IT Technician:** maintained and troubleshot **200+ machines** (imaging, deployments, hardware/software support).
 - **Learning Assistant (Linear Algebra):** supported instruction and tutoring for **40+ students** (office hours, recitations, exam review).
