@@ -20,7 +20,7 @@ In industry, I’ve built and deployed end-to-end AI systems including **OCR + R
 
 ## News
 
-- ****[Aug. 2025]**** Completed my AI Research & Engineering Summer Associate role at **AriesView** (OCR + RAG lease abstraction deployed on Azure).
+- **[Aug. 2025]** Completed my AI Research & Engineering Summer Associate role at **AriesView** (OCR + RAG lease abstraction deployed on Azure).
 - **[July 2025]** Our paper on **Counterfactual Instruction Following** was **accepted** at **Social Simulation @ COLM 2025**; the public version is available on arXiv.
 - **[May. 2025]** Completed my AI Engineer internship at **Voicebotics AI**, building real-time call-insight pipelines.
 - **[Aug. 2024]** Completed my ML Engineer internship at **Rise Consultancy EDU**, developing an AI-driven personalized learning-path generator.
