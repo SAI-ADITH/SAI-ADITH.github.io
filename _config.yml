@@ -36,7 +36,7 @@ favicon_dark: ./assets/img/S.png
 # =========================
 enable_footnote: true
 auto_dark_mode: true
-font: "Serif"   # or "Sans Serif"
+font: "Sans Serif"
 
 # =========================
 # GitHub Pages Theme
