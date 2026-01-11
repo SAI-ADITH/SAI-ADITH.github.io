@@ -10,6 +10,13 @@ My work focuses on **LLM interpretability and instruction-following**, with an e
 
 In industry, I’ve built and deployed end-to-end AI systems including **OCR + RAG pipelines** and **real-time insight generation** with a focus on measurable improvements in **accuracy, latency, and reliability**.
 
+## Publications
+
+- **Can LLMs Simulate Personas with Reversed Performance? A Benchmark for Counterfactual Instruction Following**  
+  **Sai Adith Senthil Kumar**, Hao Yan, Saipavan Perepa, Murong Yue, Ziyu Yao  
+  *Social Simulation Workshop @ COLM 2025 (accepted)*  
+  [[PDF]](https://arxiv.org/pdf/2504.06460.pdf) [[arXiv]](https://arxiv.org/abs/2504.06460)
+
 ## Research Interests
 
 - Mechanistic interpretability (Sparse Autoencoders, feature analysis, activation steering)
@@ -20,17 +27,11 @@ In industry, I’ve built and deployed end-to-end AI systems including **OCR + R
 
 ## News
 
-- **[Aug. 2025]** Completed my AI Research & Engineering Summer Associate role at **AriesView** (OCR + RAG lease abstraction deployed on Azure).
+- ****[Aug. 2025]**** Completed my AI Research & Engineering Summer Associate role at **AriesView** (OCR + RAG lease abstraction deployed on Azure).
 - **[July 2025]** Our paper on **Counterfactual Instruction Following** was **accepted** at **Social Simulation @ COLM 2025**; the public version is available on arXiv.
 - **[May. 2025]** Completed my AI Engineer internship at **Voicebotics AI**, building real-time call-insight pipelines.
 - **[Aug. 2024]** Completed my ML Engineer internship at **Rise Consultancy EDU**, developing an AI-driven personalized learning-path generator.
 
-## Publications
-
-- **Can LLMs Simulate Personas with Reversed Performance? A Benchmark for Counterfactual Instruction Following**  
-  **Sai Adith Senthil Kumar**, Hao Yan, Saipavan Perepa, Murong Yue, Ziyu Yao  
-  *Social Simulation Workshop @ COLM 2025 (accepted)*  
-  [[PDF]](https://arxiv.org/pdf/2504.06460.pdf) [[arXiv]](https://arxiv.org/abs/2504.06460)
 
 ## Experiences
 
