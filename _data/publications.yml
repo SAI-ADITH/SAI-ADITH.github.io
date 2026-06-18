@@ -1,5 +1,12 @@
 main:
 
+- title: "When Built-in Thinking Helps and Hurts: Constraint-Level Error Shifts in Instruction Following"
+  authors: "<strong>Sai Adith Senthil Kumar</strong>"
+  conference_short: "arXiv"
+  conference: "arXiv preprint, 2026."
+  pdf: "https://arxiv.org/pdf/2606.09662"
+  webpage: "https://arxiv.org/abs/2606.09662"
+
 - title: "Can LLMs Simulate Personas with Reversed Performance? A Benchmark for Counterfactual Instruction Following"
   authors: "<strong>Sai Adith Senthil Kumar</strong>, Hao Yan, Saipavan Perepa, Murong Yue, Ziyu Yao"
   conference_short: "arXiv"

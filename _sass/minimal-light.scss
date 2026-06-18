@@ -595,3 +595,66 @@ footer {
   display:none;
   font-family: monospace;
 }
+
+.recruiter-snapshot {
+  border: 1px solid rgba(4, 51, 97, 0.16);
+  border-left: 4px solid #043361;
+  border-radius: 8px;
+  background: rgba(62, 183, 240, 0.06);
+  padding: 16px 18px 14px;
+  margin: 24px 0 28px;
+}
+
+.recruiter-snapshot h3 {
+  margin: 0 0 12px;
+}
+
+.recruiter-snapshot ul {
+  margin-bottom: 14px;
+}
+
+.quick-links {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+}
+
+.quick-links a {
+  display: inline-flex;
+  align-items: center;
+  min-height: 32px;
+  border: 1px solid rgba(4, 51, 97, 0.28);
+  border-radius: 6px;
+  padding: 4px 10px;
+  color: #043361;
+  background: rgba(255, 255, 255, 0.72);
+  font-size: 13px;
+  font-weight: 600;
+}
+
+.quick-links a:hover,
+.quick-links a:focus {
+  border-color: #3eb7f0;
+  color: #043361;
+  background: #ffffff;
+}
+
+@media (prefers-color-scheme: dark) {
+  .recruiter-snapshot {
+    border-color: rgba(62, 183, 240, 0.34);
+    border-left-color: #3eb7f0;
+    background: rgba(62, 183, 240, 0.08);
+  }
+
+  .quick-links a {
+    border-color: rgba(62, 183, 240, 0.42);
+    color: #eeeff0;
+    background: rgba(255, 255, 255, 0.04);
+  }
+
+  .quick-links a:hover,
+  .quick-links a:focus {
+    color: #ffffff;
+    background: rgba(62, 183, 240, 0.12);
+  }
+}

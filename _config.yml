@@ -2,15 +2,15 @@
 # Basic Information
 # =========================
 title: Sai Adith Senthil Kumar
-position: B.S./M.S. Computer Science (Machine Learning)
+position: AI Engineer Intern, NexGentic
 affiliation: George Mason University
 email: saiadithsk (at) gmail.com / ssenthi2 (at) gmu.edu
 
 # =========================
 # Search Engine Optimization (SEO)
 # =========================
-keywords: Sai Adith, George Mason University, LLMs, AI Research, Mechanistic Interpretability, Instruction Following, RAG
-description: Personal website of Sai Adith Senthil Kumar — CS student at George Mason University working on LLM reasoning, instruction following, and AI safety.
+keywords: Sai Adith, George Mason University, NexGentic, LLMs, AI Research, Mechanistic Interpretability, Instruction Following, RAG, LangGraph, Vertex AI
+description: Personal website of Sai Adith Senthil Kumar, CS student at George Mason University working on LLM reasoning, instruction following, mechanistic interpretability, and applied AI systems.
 # Put your real website URL here after it is live:
 canonical: https://SAI-ADITH.github.io/
 
@@ -18,7 +18,7 @@ canonical: https://SAI-ADITH.github.io/
 # Links
 # =========================
 google_scholar: https://scholar.google.com/citations?user=PiHGMEIAAAAJ&hl=en
-cv_link:
+cv_link: ./assets/files/sai_adith_sk_CV.pdf
 github_link: https://github.com/SAI-ADITH
 linkedin: https://www.linkedin.com/in/saiadith/
 # If you don't use Twitter/X, delete this line or leave blank
