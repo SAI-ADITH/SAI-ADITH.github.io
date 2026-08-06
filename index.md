@@ -66,3 +66,4 @@ In industry, I've built and deployed end-to-end AI systems including **multi-age
 ## Awards
 
 - **KEEN Award (GMU Research Celebration)** - **$1,000**. [[Certificate PDF]](assets/files/Sai Adith Senthil Kumar.pdf)
+
