@@ -35,17 +35,17 @@ In industry, I've built and deployed end-to-end AI systems including **multi-age
 - **Circuit Condensation: Post-Training that Concentrates a Behavior's Causal Circuit**  
   **Sai Adith Senthil Kumar**  
   *arXiv preprint, 2026*  
-  [[PDF]](https://arxiv.org/pdf/2608.27254) [[arXiv]](https://arxiv.org/abs/2608.27254)
+  [[PDF]](https://arxiv.org/pdf/2608.27254) [[arXiv]](https://arxiv.org/abs/2608.27254) [[Code]](https://github.com/SAI-ADITH/circuit-condensation)
 
 - **When Built-in Thinking Helps and Hurts: Constraint-Level Error Shifts in Instruction Following**  
   **Sai Adith Senthil Kumar**  
   *arXiv preprint, 2026*  
-  [[PDF]](https://arxiv.org/pdf/2606.09662) [[arXiv]](https://arxiv.org/abs/2606.09662)
+  [[PDF]](https://arxiv.org/pdf/2606.09662) [[arXiv]](https://arxiv.org/abs/2606.09662) [[Code]](https://github.com/SAI-ADITH/llm-reasoning-mechinterp)
 
 - **Can LLMs Simulate Personas with Reversed Performance? A Benchmark for Counterfactual Instruction Following**  
   **Sai Adith Senthil Kumar**, Hao Yan, Saipavan Perepa, Murong Yue, Ziyu Yao  
   *Social Simulation Workshop @ COLM 2025 (accepted)*  
-  [[PDF]](https://arxiv.org/pdf/2504.06460.pdf) [[arXiv]](https://arxiv.org/abs/2504.06460)
+  [[PDF]](https://arxiv.org/pdf/2504.06460.pdf) [[arXiv]](https://arxiv.org/abs/2504.06460) [[Code]](https://github.com/Ziyu-Yao-NLP-Lab/Counterfactual-Persona-Simulation)
 
 ## Experiences
 
