@@ -6,9 +6,14 @@ layout: homepage
 
 I'm **Sai Adith Senthil Kumar**, an **AI researcher and engineer** at **George Mason University**. I graduated with my **B.S. in Computer Science in May 2026** and am continuing into the **M.S. in Computer Science** program with a concentration in **Machine Learning**.
 
-My work focuses on **mechanistic interpretability and AI safety**, with an emphasis on **circuits and activation-level methods** (sparse autoencoders, activation patching), **instruction-following reliability**, **personas**, and **reasoning behavior** ("thinking" vs. "no-thinking" under strict constraints). Recently, I've been working on **Circuit Condensation**, which post-trains models to concentrate a behavior into a smaller causal circuit.
+My research is in **mechanistic interpretability** and **AI safety**: **circuit discovery**, **sparse autoencoders**, **activation patching**, **LLM evaluation**, **instruction-following reliability**, **persona simulation**, and **reasoning behavior** in LLMs.
 
-In industry, I've built and deployed end-to-end AI systems including **multi-agent RAG systems**, **OCR + RAG pipelines**, and **real-time insight generation** with a focus on measurable improvements in **accuracy, latency, and reliability**.
+In industry, I've built and deployed end-to-end AI systems with a focus on measurable improvements in **accuracy, latency, and reliability**:
+
+- **Multi-agent RAG** and financial-analysis workflows on **GCP** (**Vertex AI**, **LangGraph**)
+- **OCR + RAG pipelines** for lease abstraction, deployed on **Azure**
+- **Real-time call-insight pipelines** for voice AI
+- **AI-driven personalized learning-path generation**
 
 ## Research Interests
 
