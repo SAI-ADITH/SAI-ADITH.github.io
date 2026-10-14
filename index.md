@@ -6,14 +6,9 @@ layout: homepage
 
 I'm **Sai Adith Senthil Kumar**, an **AI researcher and engineer** at **George Mason University**. I graduated with my **B.S. in Computer Science in May 2026** and am continuing into the **M.S. in Computer Science** program with a concentration in **Machine Learning**.
 
-My research is in **mechanistic interpretability** and **AI safety**: **circuit discovery**, **sparse autoencoders**, **activation patching**, **LLM evaluation**, **instruction-following reliability**, **persona simulation**, and **reasoning behavior** in LLMs.
+I'm interested in understanding how language models work and making them safe and reliable. I've worked on both research and production AI systems, with a focus on accuracy, latency, and reliability.
 
-In industry, I've built and deployed end-to-end AI systems with a focus on measurable improvements in **accuracy, latency, and reliability**:
-
-- **Multi-agent RAG** and financial-analysis workflows on **GCP** (**Vertex AI**, **LangGraph**)
-- **OCR + RAG pipelines** for lease abstraction, deployed on **Azure**
-- **Real-time call-insight pipelines** for voice AI
-- **AI-driven personalized learning-path generation**
+Outside of work, I've been playing **tennis** since first grade and used to play professionally. I also like going to the gym, listening to music, and training **jiu-jitsu**.
 
 ## Research Interests
 
@@ -25,15 +20,29 @@ In industry, I've built and deployed end-to-end AI systems with a focus on measu
 - Reasoning behavior in LLMs ("thinking" vs. "no-thinking", trace relevance, failure modes under constraints)
 - Deployment-aware safety evaluation (monitoring signals, hallucination reduction, RAG evaluation)
 
+## Experience
+
+- **Research Mentee**, *SPAR (Supervised Program for Alignment Research)* - Sep 2026 - Dec 2026, mentored by [Thomas Jiralerspong](https://superkaiba.github.io/)
+- **AI Engineer Intern**, *NexGentic* - Feb 2026 - Aug 2026
+  - Multi-agent RAG and financial-analysis workflows on GCP (Vertex AI, LangGraph)
+- **NLP Researcher**, *George Mason University* - Dec 2023 - ongoing
+  - LLM interpretability, instruction following, and persona simulation
+- **AI Research & Engineering Summer Associate**, *AriesView* - May 2025 - Aug 2025
+  - OCR + RAG pipeline for lease abstraction, deployed on Azure
+- **AI Engineer Intern**, *Voicebotics AI* - Jan 2025 - May 2025
+  - Real-time call-insight pipelines
+- **Machine Learning Engineer Intern**, *Rise Consultancy EDU* - May 2024 - Aug 2024
+  - AI-driven personalized learning-path generator
+
 ## News
 
-- **[Aug. 2026]** Released my sole-author arXiv preprint, **Circuit Condensation**, on post-training models to concentrate behaviors into smaller causal circuits. [[Paper]](https://arxiv.org/abs/2608.27254)
-- **[Jun. 2026]** Released my sole-author arXiv preprint, **When Built-in Thinking Helps and Hurts**, on constraint-level error shifts in instruction following. [[Paper]](https://arxiv.org/abs/2606.09662)
-- **[Feb. 2026]** Started as an **AI Engineer Intern** at **NexGentic**, building multi-agent RAG and financial-analysis workflows on GCP.
-- **[Aug. 2025]** Completed my AI Research & Engineering Summer Associate role at **AriesView** (OCR + RAG lease abstraction deployed on Azure).
-- **[July 2025]** Our paper on **Counterfactual Instruction Following** was **accepted** at **Social Simulation @ COLM 2025**; the public version is available on arXiv.
-- **[May. 2025]** Completed my AI Engineer internship at **Voicebotics AI**, building real-time call-insight pipelines.
-- **[Aug. 2024]** Completed my ML Engineer internship at **Rise Consultancy EDU**, developing an AI-driven personalized learning-path generator.
+- **[Aug 2026]** Released my sole-author arXiv preprint, **Circuit Condensation**, on post-training models to concentrate behaviors into smaller causal circuits. [[Paper]](https://arxiv.org/abs/2608.27254)
+- **[Jun 2026]** Released my sole-author arXiv preprint, **When Built-in Thinking Helps and Hurts**, on constraint-level error shifts in instruction following. [[Paper]](https://arxiv.org/abs/2606.09662)
+- **[Feb 2026]** Started as an **AI Engineer Intern** at **NexGentic**, building multi-agent RAG and financial-analysis workflows on GCP.
+- **[Aug 2025]** Completed my AI Research & Engineering Summer Associate role at **AriesView** (OCR + RAG lease abstraction deployed on Azure).
+- **[Jul 2025]** Our paper on **Counterfactual Instruction Following** was **accepted** at **Social Simulation @ COLM 2025**; the public version is available on arXiv.
+- **[May 2025]** Completed my AI Engineer internship at **Voicebotics AI**, building real-time call-insight pipelines.
+- **[Aug 2024]** Completed my ML Engineer internship at **Rise Consultancy EDU**, developing an AI-driven personalized learning-path generator.
 
 ## Publications
 
@@ -52,16 +61,7 @@ In industry, I've built and deployed end-to-end AI systems with a focus on measu
   *Social Simulation Workshop @ COLM 2025 (accepted)*  
   [[PDF]](https://arxiv.org/pdf/2504.06460.pdf) [[arXiv]](https://arxiv.org/abs/2504.06460) [[Code]](https://github.com/Ziyu-Yao-NLP-Lab/Counterfactual-Persona-Simulation)
 
-## Experiences
-
-- **Research Mentee**, *SPAR (Supervised Program for Alignment Research)* - Sep 2026 - Dec 2026, mentored by [Thomas Jiralerspong](https://superkaiba.github.io/)
-- **AI Engineer Intern**, *NexGentic* - Feb 2026 - Aug 2026  
-- **NLP Researcher**, *George Mason University* - Dec 2023 - ongoing
-- **AI Research & Engineering Summer Associate**, *AriesView* - May 2025 - Aug 2025  
-- **AI Engineer Intern**, *Voicebotics AI* - Jan 2025 - May 2025  
-- **Machine Learning Engineer Intern**, *Rise Consultancy EDU* - May 2024 - Aug 2024  
-
-## Services
+## Service
 
 ### Reviewers
 - **Interpretability as a Science @ NeurIPS 2026** (workshop) [[Workshop]](https://interpscience.github.io/)
@@ -81,4 +81,3 @@ In industry, I've built and deployed end-to-end AI systems with a focus on measu
 ## Awards
 
 - **KEEN Award (GMU Research Celebration)** - **$1,000**. [[Certificate PDF]](assets/files/Sai%20Adith%20Senthil%20Kumar.pdf)
-

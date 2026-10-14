@@ -157,6 +157,9 @@ section ul { margin: 0 0 1.2rem; padding-left: 1.25rem; }
 section li { margin: 0.45rem 0; }
 section li::marker { color: var(--lavender); }
 section li > p { margin: 0; }
+/* short description under a role */
+section li > ul { margin: 0.2rem 0 0.5rem; padding-left: 1.1rem; }
+section li > ul > li { margin: 0.1rem 0; color: var(--muted); }
 
 /* publications: one entry per block with a thin rule on the left */
 #publications + ul { list-style: none; padding-left: 0; }
