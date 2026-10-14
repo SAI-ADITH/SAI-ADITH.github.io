@@ -8,7 +8,7 @@ I'm **Sai Adith Senthil Kumar**, an **AI researcher and engineer** at **George M
 
 I'm interested in understanding how language models work and making them safe and reliable. I've worked on both research and production AI systems, with a focus on accuracy, latency, and reliability.
 
-Outside of work, I've been playing **tennis** since first grade and used to play professionally. I also like going to the gym, listening to music, and training **jiu-jitsu**.
+Outside of work, I've been playing **tennis** since 1st grade and used to play professionally. I also like going to the gym and listening to music.
 
 ## Research Interests
 
@@ -53,9 +53,17 @@ Outside of work, I've been playing **tennis** since first grade and used to play
 
 ## News
 
+- **[Sep 2026]** Started as a **Research Mentee** at **SPAR** (Supervised Program for Alignment Research), mentored by [Thomas Jiralerspong](https://superkaiba.github.io/).
 - **[Aug 2026]** Released my sole-author arXiv preprint, **Circuit Condensation**, on post-training models to concentrate behaviors into smaller causal circuits. [[Paper]](https://arxiv.org/abs/2608.27254)
+- **[Aug 2026]** Started my **M.S. in Computer Science** (Machine Learning concentration) at **George Mason University**.
 - **[Jun 2026]** Released my sole-author arXiv preprint, **When Built-in Thinking Helps and Hurts**, on constraint-level error shifts in instruction following. [[Paper]](https://arxiv.org/abs/2606.09662)
+- **[May 2026]** Graduated with my **B.S. in Computer Science** from **George Mason University**.
+- **[Feb 2026]** Started as an **AI Engineer Intern** at **NexGentic**, building multi-agent RAG and financial-analysis workflows on GCP.
+- **[Aug 2025]** Completed my AI Research & Engineering Summer Associate role at **AriesView** (OCR + RAG lease abstraction deployed on Azure).
 - **[Jul 2025]** Our paper on **Counterfactual Instruction Following** was **accepted** at **Social Simulation @ COLM 2025**; the public version is available on arXiv.
+- **[May 2025]** Completed my AI Engineer internship at **Voicebotics AI**, building real-time call-insight pipelines.
+- **[Aug 2024]** Completed my ML Engineer internship at **Rise Consultancy EDU**, developing an AI-driven personalized learning-path generator.
+- **[Aug 2022]** Started my **B.S. in Computer Science** at **George Mason University**.
 
 ## Service
 
