@@ -104,11 +104,7 @@
 
       {{ content }}
 
-      <br>
-
-      {% if site.enable_footnote %}
-      <p><small>Powered by Jekyll and <a href="https://github.com/yaoyao-liu/minimal-light" target="_blank" rel="noopener">Minimal Light</a> theme.</small></p>
-      {% endif %}
+      <p class="site-foot">&copy; {{ site.time | date: "%Y" }} {{ site.title }}</p>
 
       </section>
       <footer>
