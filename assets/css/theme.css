@@ -61,8 +61,9 @@ autocolor { color: #eef0f6 !important; }
 email {
   display: inline-block;
   margin-top: 0.3rem;
-  font: 400 0.82rem/1.6 var(--font) !important;
+  font: 400 0.82rem/1.7 var(--font) !important;
   color: var(--muted);
+  white-space: nowrap;
 }
 
 .social-icons { display: flex; justify-content: center; flex-wrap: wrap; gap: 0.3rem; }
@@ -81,6 +82,40 @@ email {
 }
 .social-icons i { font-size: 1.4rem !important; }
 .social-icons a:hover { color: var(--lavender) !important; opacity: 1; background: none !important; transform: none !important; translate: 0 -2px; }
+
+/* section menu under the profile */
+.side-nav {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  width: max-content;
+  margin: 1.8rem auto 0;
+  border-left: 1px solid var(--line);
+}
+.side-nav a {
+  position: relative;
+  padding: 0.3rem 0 0.3rem 1.1rem;
+  font-size: 0.9rem;
+  line-height: 1.4;
+  color: var(--muted);
+  transition: color 0.25s var(--ease), padding-left 0.25s var(--ease);
+}
+.side-nav a::before {
+  content: "";
+  position: absolute;
+  left: -1px;
+  top: 0.15rem;
+  bottom: 0.15rem;
+  width: 2px;
+  background: var(--lavender);
+  opacity: 0;
+  transition: opacity 0.25s var(--ease);
+}
+.side-nav a:hover { color: #eef0f6; padding-left: 1.3rem; }
+.side-nav a.active { color: var(--lavender); }
+.side-nav a.active::before { opacity: 1; }
+
+section h2 { scroll-margin-top: 2rem; }
 
 /* ---------- content ---------- */
 section h2 {
@@ -145,9 +180,48 @@ section li > p { margin: 0; }
   section { width: calc(100% - 350px); }
 }
 
+@media screen and (min-width: 961px) {
+  header {
+    top: 0;
+    box-sizing: border-box;
+    max-height: 100vh;
+    padding: 7.5rem 0 2rem;
+    overflow-x: hidden;
+    overflow-y: auto;
+    scrollbar-width: none;
+  }
+  header::-webkit-scrollbar { display: none; }
+}
+/* medium-height windows: slightly smaller photo so the menu fits */
+@media screen and (min-width: 961px) and (max-height: 940px) {
+  header { padding-top: 4.5rem; }
+  header .image.avatar { width: 9.5em !important; height: 9.5em; margin-bottom: 1em !important; }
+  header h1 { font-size: 1.85rem !important; margin-bottom: 0.6rem !important; }
+  .side-nav { margin-top: 1.2rem; }
+}
+/* very short windows */
+@media screen and (min-width: 961px) and (max-height: 700px) {
+  header { padding-top: 2.2rem; }
+  header .image.avatar { width: 7.5em !important; height: 7.5em; }
+  header h1 { font-size: 1.6rem !important; }
+  .side-nav a { padding-top: 0.12rem; padding-bottom: 0.12rem; font-size: 0.85rem; }
+}
+
 /* ---------- small screens ---------- */
 @media print, screen and (max-width: 960px) {
   section { border-color: var(--line); }
+  .side-nav {
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+    width: auto;
+    gap: 0.2rem 1.1rem;
+    margin: 1.2rem 0 0.4rem;
+    border-left: 0;
+  }
+  .side-nav a { padding: 0.25rem 0; }
+  .side-nav a::before { display: none; }
+  .side-nav a:hover { padding-left: 0; }
   header .image.avatar { width: 9.5em !important; height: 9.5em; }
   header h1 { font-size: 1.8rem !important; }
 }
