@@ -51,6 +51,10 @@
 
         <h1>{{ site.title }}</h1>
 
+        {% if site.headline %}
+        <p class="headline">{{ site.headline | replace: " | ", "<br>" }}</p>
+        {% endif %}
+
 
         {% if site.position %}
         <position style="font-size:1.10rem;">{{ site.position }}</position>
@@ -102,8 +106,8 @@
           <a href="#about-me">About</a>
           <a href="#research-interests">Research</a>
           <a href="#experience">Experience</a>
-          <a href="#news">News</a>
           <a href="#publications">Publications</a>
+          <a href="#news">News</a>
           <a href="#service">Service</a>
           <a href="#talks">Talks</a>
           <a href="#awards">Awards</a>
@@ -123,6 +127,7 @@
     </div>
     <script src="{{ "/assets/js/scale.fix.js" | relative_url }}"></script>
     <script src="./assets/js/nav.js" defer></script>
+    <script src="./assets/js/contact.js" defer></script>
     {% if site.google_analytics %}
     <script>
       (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){

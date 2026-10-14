@@ -34,16 +34,6 @@ Outside of work, I've been playing **tennis** since first grade and used to play
 - **Machine Learning Engineer Intern**, *Rise Consultancy EDU* - May 2024 - Aug 2024
   - AI-driven personalized learning-path generator
 
-## News
-
-- **[Aug 2026]** Released my sole-author arXiv preprint, **Circuit Condensation**, on post-training models to concentrate behaviors into smaller causal circuits. [[Paper]](https://arxiv.org/abs/2608.27254)
-- **[Jun 2026]** Released my sole-author arXiv preprint, **When Built-in Thinking Helps and Hurts**, on constraint-level error shifts in instruction following. [[Paper]](https://arxiv.org/abs/2606.09662)
-- **[Feb 2026]** Started as an **AI Engineer Intern** at **NexGentic**, building multi-agent RAG and financial-analysis workflows on GCP.
-- **[Aug 2025]** Completed my AI Research & Engineering Summer Associate role at **AriesView** (OCR + RAG lease abstraction deployed on Azure).
-- **[Jul 2025]** Our paper on **Counterfactual Instruction Following** was **accepted** at **Social Simulation @ COLM 2025**; the public version is available on arXiv.
-- **[May 2025]** Completed my AI Engineer internship at **Voicebotics AI**, building real-time call-insight pipelines.
-- **[Aug 2024]** Completed my ML Engineer internship at **Rise Consultancy EDU**, developing an AI-driven personalized learning-path generator.
-
 ## Publications
 
 - **Circuit Condensation: Post-Training that Concentrates a Behavior's Causal Circuit**  
@@ -60,6 +50,12 @@ Outside of work, I've been playing **tennis** since first grade and used to play
   **Sai Adith Senthil Kumar**, Hao Yan, Saipavan Perepa, Murong Yue, Ziyu Yao  
   *Social Simulation Workshop @ COLM 2025 (accepted)*  
   [[PDF]](https://arxiv.org/pdf/2504.06460.pdf) [[arXiv]](https://arxiv.org/abs/2504.06460) [[Code]](https://github.com/Ziyu-Yao-NLP-Lab/Counterfactual-Persona-Simulation)
+
+## News
+
+- **[Aug 2026]** Released my sole-author arXiv preprint, **Circuit Condensation**, on post-training models to concentrate behaviors into smaller causal circuits. [[Paper]](https://arxiv.org/abs/2608.27254)
+- **[Jun 2026]** Released my sole-author arXiv preprint, **When Built-in Thinking Helps and Hurts**, on constraint-level error shifts in instruction following. [[Paper]](https://arxiv.org/abs/2606.09662)
+- **[Jul 2025]** Our paper on **Counterfactual Instruction Following** was **accepted** at **Social Simulation @ COLM 2025**; the public version is available on arXiv.
 
 ## Service
 
