@@ -34,16 +34,27 @@
     <link rel="stylesheet" href="./assets/css/publications-no-dark-mode.css">
     {% endif %}
 
+    <meta name="theme-color" content="#070910">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600&family=JetBrains+Mono:wght@400;500&family=Space+Grotesk:wght@500;600;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="./assets/css/ai-theme.css">
+    <script>document.documentElement.classList.add('js');</script>
+
   </head>
   <body>
+    <canvas id="neural-bg" aria-hidden="true"></canvas>
+    <div id="scroll-progress" aria-hidden="true"></div>
     <div class="wrapper">
       <header>
-        
+
         {% if site.avatar %}
         <a class="image avatar"><img src="{{ site.avatar }}" alt="avatar" /></a>
         {% endif %}
 
         <h1>{{ site.title }}</h1>
+
+        <p class="tagline" aria-label="Mechanistic interpretability and AI safety"><span id="typed">Mechanistic Interpretability</span><span class="caret" aria-hidden="true"></span></p>
 
         {% if site.position %}
         <position style="font-size:1.10rem;">{{ site.position }}</position>
@@ -90,7 +101,17 @@
         </a>
         {% endif %}
         </div>
-        <br>
+
+        <nav class="side-nav" aria-label="Sections">
+          <a href="#about-me">About</a>
+          <a href="#research-interests">Research</a>
+          <a href="#news">News</a>
+          <a href="#publications">Publications</a>
+          <a href="#experiences">Experience</a>
+          <a href="#services">Service</a>
+          <a href="#talks">Talks</a>
+          <a href="#awards">Awards</a>
+        </nav>
 
       </header>
       <section>
@@ -109,6 +130,7 @@
       </footer>
     </div>
     <script src="{{ "/assets/js/scale.fix.js" | relative_url }}"></script>
+    <script src="./assets/js/ai-effects.js" defer></script>
     {% if site.google_analytics %}
     <script>
       (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
