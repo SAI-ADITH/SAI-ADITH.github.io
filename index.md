@@ -22,7 +22,7 @@ Outside of work, I've been playing **tennis** since 1st grade and used to play p
 
 ## Experience
 
-- **Research Mentee**, *SPAR (Supervised Program for Alignment Research)* - Sep 2026 - Dec 2026, mentored by [Thomas Jiralerspong](https://superkaiba.github.io/)
+- **Research Mentee**, *SPAR (Supervised Program for Alignment Research)* - Sep 2026 - Dec 2026, mentored by [Thomas Jiralerspong](https://thomas.jiralerspong.com/)
 - **AI Engineer Intern**, *NexGentic* - Feb 2026 - Aug 2026
   - Multi-agent RAG and financial-analysis workflows on GCP (Vertex AI, LangGraph)
 - **NLP Researcher**, *George Mason University* - Dec 2023 - ongoing
@@ -53,7 +53,8 @@ Outside of work, I've been playing **tennis** since 1st grade and used to play p
 
 ## News
 
-- **[Sep 2026]** Started as a **Research Mentee** at **SPAR** (Supervised Program for Alignment Research), mentored by [Thomas Jiralerspong](https://superkaiba.github.io/).
+- **[Sep 2026]** Started as a **Research Mentee** at **SPAR** (Supervised Program for Alignment Research), mentored by [Thomas Jiralerspong](https://thomas.jiralerspong.com/).
+- **[Sep 2026]** Reviewed for the **Interpretability as a Science** workshop at **NeurIPS 2026**. [[Workshop]](https://interpscience.github.io/)
 - **[Aug 2026]** Released my sole-author arXiv preprint, **Circuit Condensation**, on post-training models to concentrate behaviors into smaller causal circuits. [[Paper]](https://arxiv.org/abs/2608.27254)
 - **[Aug 2026]** Started my **M.S. in Computer Science** (Machine Learning concentration) at **George Mason University**.
 - **[Jun 2026]** Released my sole-author arXiv preprint, **When Built-in Thinking Helps and Hurts**, on constraint-level error shifts in instruction following. [[Paper]](https://arxiv.org/abs/2606.09662)
