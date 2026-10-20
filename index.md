@@ -2,6 +2,8 @@
 layout: homepage
 ---
 
+<p><a href="https://sai-adith.github.io/circuit-condensation/" style="display:inline-block;padding:6px 14px;border-radius:999px;border:1px solid rgba(127,127,127,.35);text-decoration:none;font-size:0.92em;">✨ <b>New:</b> Circuit Condensation interactive demo →</a></p>
+
 ## About Me
 
 I'm **Sai Adith Senthil Kumar**, an **AI researcher and engineer** at **George Mason University**. I graduated with my **B.S. in Computer Science in May 2026** and am continuing into the **M.S. in Computer Science** program with a concentration in **Machine Learning**.
