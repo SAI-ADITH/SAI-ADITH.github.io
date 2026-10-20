@@ -2,13 +2,13 @@
 layout: homepage
 ---
 
-<p><a href="https://sai-adith.github.io/circuit-condensation/" style="display:inline-block;padding:6px 14px;border-radius:999px;border:1px solid rgba(127,127,127,.35);text-decoration:none;font-size:0.92em;">✨ <b>New:</b> Circuit Condensation interactive demo →</a></p>
-
 ## About Me
 
 I'm **Sai Adith Senthil Kumar**, an **AI researcher and engineer** at **George Mason University**. I graduated with my **B.S. in Computer Science in May 2026** and am continuing into the **M.S. in Computer Science** program with a concentration in **Machine Learning**.
 
 I'm interested in understanding how language models work and making them safe and reliable. I've worked on both research and production AI systems, with a focus on accuracy, latency, and reliability.
+
+**Latest:** my preprint [Circuit Condensation](https://arxiv.org/abs/2608.27254) shows post-training can shrink a behavior's circuit to a size you can check by hand. [Try the interactive demo →](https://sai-adith.github.io/circuit-condensation/)
 
 Outside of work, I've been playing **tennis** since 1st grade and used to play professionally. I also like going to the gym and listening to music.
 
