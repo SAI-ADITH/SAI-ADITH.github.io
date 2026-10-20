@@ -39,7 +39,7 @@ Outside of work, I've been playing **tennis** since 1st grade and used to play p
 - **Circuit Condensation: Post-Training that Concentrates a Behavior's Causal Circuit**  
   **Sai Adith Senthil Kumar**  
   *arXiv preprint, 2026*  
-  [[PDF]](https://arxiv.org/pdf/2608.27254) [[arXiv]](https://arxiv.org/abs/2608.27254) [[Code]](https://github.com/SAI-ADITH/circuit-condensation)
+  [[PDF]](https://arxiv.org/pdf/2608.27254) [[arXiv]](https://arxiv.org/abs/2608.27254) [[Code]](https://github.com/SAI-ADITH/circuit-condensation) [[Website]](https://sai-adith.github.io/circuit-condensation/)
 
 - **When Built-in Thinking Helps and Hurts: Constraint-Level Error Shifts in Instruction Following**  
   **Sai Adith Senthil Kumar**  
